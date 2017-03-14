@@ -1,3 +1,5 @@
+package com.simongk.LabOnePack;
+
 class LabOne {
 	
 	private final String name = "S";
